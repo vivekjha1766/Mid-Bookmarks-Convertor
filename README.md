@@ -131,7 +131,7 @@ I created this to store my Medium reading list and build a knowledge base - esse
 
 ## 📞 Contact
 
-📧 Email: **pookielinuxuser@tutamail.com**
+📧 Email: **vivek.jha1766@gmail.com**
 💡 Built something cool ? If you've created any RAG projects or knowledge base systems using this tool, feel free to share with me , I'd love to see what you've built!
 
 ---
